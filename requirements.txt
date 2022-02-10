@@ -3,4 +3,4 @@ Wand==0.6.1
 pyrebase==3.0.27
 keras-vggface==0.6
 mtcnn==0.1.0
-tensorflow==1.15
+tensorflow==2.5.3
